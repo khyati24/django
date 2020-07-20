@@ -1,1 +1,2 @@
 print("abcasdas");
+print ('mnasd');
